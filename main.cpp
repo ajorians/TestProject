@@ -1,7 +1,6 @@
 #include <iostream>
-using namespace std;
 int main()
 {
-   cout << "Test Project" << endl;
+   std::cout << "Test Project" << std::endl;
    return 0;
 }
