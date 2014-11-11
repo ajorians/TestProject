@@ -1,0 +1,10 @@
+notifications:
+  email: false
+ 
+language: cpp
+ 
+compiler:
+ - gcc
+
+script:
+  ./configure && make
